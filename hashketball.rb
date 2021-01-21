@@ -59,7 +59,7 @@ def game_hash
       :players => [{}]
     }
 
-}
+
 
 }
 end
