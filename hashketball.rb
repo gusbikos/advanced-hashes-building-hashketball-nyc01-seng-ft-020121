@@ -11,6 +11,7 @@ def game_hash
           number: "0",
           shoe: "16",
           points: "12",
+          rebounds: "12",
           assists: "12",
           steals: "3",
           blocks: "1",
